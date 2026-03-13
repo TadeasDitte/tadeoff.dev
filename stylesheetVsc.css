@@ -36,7 +36,9 @@ body {
   place-items: center;
   padding: 1rem;
 }
-
+a {
+  color: #44729b;
+}
 .vscode-shell {
   width: clamp(960px, calc(100vw - 2rem), 1700px);
   height: clamp(560px, calc(100vh - 2rem), 980px);
